@@ -1,6 +1,6 @@
 # bird_detector
 
-A new Flutter project.
+A Flutter project that is intended to be the front-end of the project's bird classification system.
 
 ## Getting Started
 
